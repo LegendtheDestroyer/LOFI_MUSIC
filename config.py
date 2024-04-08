@@ -12,9 +12,9 @@ API_HASH = getenv("API_HASH")
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
 # Add Owner Username without @ 
-OWNER_USERNAME = getenv("OWNER_USERNAME", "OP_SHIVA_007")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "l_L3G3ND_l")
 # Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME", "ALONE_xD_MUSIC_BOT")
+BOT_USERNAME = getenv("BOT_USERNAME", "Resso_Robot")
 # Don't Add style font 
 BOT_NAME = getenv("BOT_NAME", "˹𝙻𝙾𝙵𝙸 ✗ 𝙼𝚄𝚂𝙸𝙲˼")
 #get Your Assistant User name
@@ -44,7 +44,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/sanju9636/LOFI_MUSIC",
+    "https://github.com/Gaurav1865/LOFI_MUSIC.git",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
