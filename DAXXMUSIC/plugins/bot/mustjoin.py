@@ -47,7 +47,7 @@ async def must_join_channel(app: Client, msg: Message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/ll_D3PZ_ll"),
+                                InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/l_D3PZ_l"),
                                 InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/ll_L3G3ND_ll"),
                             ]
                         ]
